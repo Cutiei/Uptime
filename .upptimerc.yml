@@ -73,6 +73,43 @@ sites:
     url: https://img.5i.gs/
   - name: 图床一（镜像）img.somlife.ru
     url: https://img.somlife.ru/index.php
+  - name: 网页部作业一（镜像）
+    url: http://xn--vhq83ak66hwyoeui.chinn.org
+  - name: 网页部作业一（镜像）
+    url: http://xn--vhq83ak66hwyoeui.biring.id	
+  - name: 网页部作业一（镜像）
+    url: http://xn--vhq83ak66hwyoeui.absl.ro	
+  - name: 网页部作业一（镜像）
+    url: http://xn--vhq83ak66hwyoeui.star.is
+  - name: 网页部作业一（镜像）
+    url: http://xn--vhq83ak66hwyoeui.corex.se
+  - name: 笔记一（镜像）
+    url: http://n.i-mind.cl/
+  - name: 必应一（镜像）
+    url: https://bingo.0x.no/
+  - name: 导航一（镜像）
+    url: https://nav.iiiii.info/
+  - name: 导航一（镜像）
+    url: https://nav.k.vu/
+  - name: GIT一（镜像）
+    url: https://git.hs.vc/
+  - name: StaticJs一（镜像）
+    url: https://track.click-it.ca/
+  - name: 搜索一（镜像）
+    url: https://searx.ix.tc/
+  - name: 协作笔记一（镜像）
+    url: https://txt.qc.to/
+  - name: 协作笔记一
+    url: https://txt.5i.gs/
+  - name: 协作笔记一（镜像）
+    url: https://txt.qc.to/
+  - name: 小程序一
+    url: http://mini2.396pay.cn/
+  
+
+
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
