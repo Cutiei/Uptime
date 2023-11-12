@@ -40,18 +40,20 @@
     "url": "http://104.128.189.11/",
     "icon": "https://icons.duckduckgo.com/ip3/104.128.189.11.ico",
     "slug": "104-128-189-11",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 76,
     "timeDay": 76,
     "timeWeek": 76,
     "timeMonth": 76,
     "timeYear": 76,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-12": 6
+    }
   },
   {
     "name": "网站一89.117.94.99",
@@ -148,36 +150,40 @@
     "url": "http://104.128.189.11:40076/",
     "icon": "https://icons.duckduckgo.com/ip3/104.128.189.11.ico",
     "slug": "ssl-104-128-189-11-40076",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 95,
     "timeDay": 95,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-12": 5
+    }
   },
   {
     "name": "邮箱二sslms.h-e.top",
     "url": "https://sslms.h-e.top/",
     "icon": "https://icons.duckduckgo.com/ip3/sslms.h-e.top.ico",
     "slug": "sslms-h-e-top",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 459,
     "timeDay": 459,
     "timeWeek": 459,
     "timeMonth": 459,
     "timeYear": 459,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-12": 3
+    }
   },
   {
     "name": "对象储存二173.249.203.183:59200",
@@ -436,18 +442,20 @@
     "url": "https://uptime.5i.gs/",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.5i.gs.ico",
     "slug": "uptime-5i-gs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 1351,
     "timeDay": 1351,
     "timeWeek": 1351,
     "timeMonth": 1351,
     "timeYear": 1351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-12": 2
+    }
   },
   {
     "name": "RSS抓取一rss.5i.gs",
@@ -508,18 +516,20 @@
     "url": "https://alist.h-e.top/",
     "icon": "https://icons.duckduckgo.com/ip3/alist.h-e.top.ico",
     "slug": "alist-h-e-top",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 286,
     "timeDay": 286,
     "timeWeek": 286,
     "timeMonth": 286,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-12": 0
+    }
   },
   {
     "name": "必应一bing.5i.gs",
