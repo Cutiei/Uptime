@@ -71,6 +71,8 @@ sites:
     url: https://yourls.5i.gs/
   - name: img.5i.gs
     url: https://img.5i.gs/
+  - name: img.somlife.ru
+    url: https://img.somlife.ru/index.php
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
