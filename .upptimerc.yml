@@ -5,12 +5,74 @@ repo: Uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: nav.5i.gs
+    url: https://nav.5i.gs
+  - name: 104.128.189.11
+    url: http://104.128.189.11/
+  - name: 89.117.94.99
+    url: http://89.117.94.99/
+  - name: 173.249.203.183
+    url: http://173.249.203.183/
+  - name: 88.99.163.99
+    url: http://88.99.163.99/
+  - name: http://88.99.163.99:51969/
+    url: http://88.99.163.99:51969/
+  - name: http://89.117.94.99:51002/
+    url: http://89.117.94.99:51002/
+  - name: http://104.128.189.11:40076/
+    url: http://104.128.189.11:40076/
+  - name: https://sslms.h-e.top/
+    url: https://sslms.h-e.top/
+  - name: http://89.117.94.99:58384/
+    url: http://89.117.94.99:58384/
+  - name: http://173.249.203.183:59200/
+    url: http://173.249.203.183:59200/
+  - name: http://173.249.203.183:55232/
+    url: http://173.249.203.183:55232/
+  - name: H-e.top
+    url: https://h-e.top/
+  - name: So.h-e.top
+    url: https://so.h-e.top/
+  - name: Www.ycasyy.cn
+    url: https://www.ycasyy.cn/
+  - name: Happy.ez6swh.cn
+    url: https://happy.ez6swh.cn/
+  - name: Inewsi.cn
+    url: https://inewsi.cn/
+  - name: Play.h-e.top
+    url: https://play.h-e.top/
+  - name: Drawio.h-e.top
+    url: https://drawio.h-e.top/
+  - name: Api.h-e.top
+    url: https://api.h-e.top/
+  - name: Mc.2b2t.cyou
+    url: https://mc.2b2t.cyou/
+  - name: mat.5i.gs
+    url: https://mat.5i.gs/
+  - name: s.5i.gs
+    url: https://s.5i.gs/
+  - name: iviaja.com
+    url: https://iviaja.com/
+  - name: uptime.5i.gs
+    url: https://uptime.5i.gs/
+  - name: rss.5i.gs
+    url: https://rss.5i.gs/
+  - name: nav.5i.gs
+    url: https://nav.5i.gs
+  - name: git.5i.gs
+    url: https://git.5i.gs/
+  - name: alist.h-e.top
+    url: https://alist.h-e.top/
+  - name: bing.5i.gs
+    url: https://bing.5i.gs/#dialog=%22%22
+  - name: box.5i.gs
+    url: https://box.5i.gs/#user/login
+  - name: note.5i.gs
+    url: https://note.5i.gs/#
+  - name: yourls.5i.gs
+    url: https://yourls.5i.gs/
+  - name: img.5i.gs
+    url: https://img.5i.gs/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
