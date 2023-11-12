@@ -97,8 +97,6 @@ sites:
     url: https://track.click-it.ca/
   - name: 搜索一（镜像）searx.ix.tc
     url: https://searx.ix.tc/
-  - name: 协作笔记一（镜像）txt.qc.to
-    url: https://txt.qc.to/
   - name: 协作笔记一txt.5i.gs
     url: https://txt.5i.gs/
   - name: 协作笔记一（镜像）txt.qc.to
