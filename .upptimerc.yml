@@ -73,39 +73,39 @@ sites:
     url: https://img.5i.gs/
   - name: 图床一（镜像）img.somlife.ru
     url: https://img.somlife.ru/index.php
-  - name: 网页部作业一（镜像）
+  - name: 网页部作业一（镜像）chinn.org
     url: http://xn--vhq83ak66hwyoeui.chinn.org
-  - name: 网页部作业一（镜像）
+  - name: 网页部作业一（镜像）biring.id	
     url: http://xn--vhq83ak66hwyoeui.biring.id	
-  - name: 网页部作业一（镜像）
+  - name: 网页部作业一（镜像）absl.ro	
     url: http://xn--vhq83ak66hwyoeui.absl.ro	
-  - name: 网页部作业一（镜像）
+  - name: 网页部作业一（镜像）star.is
     url: http://xn--vhq83ak66hwyoeui.star.is
-  - name: 网页部作业一（镜像）
+  - name: 网页部作业一（镜像）corex.se
     url: http://xn--vhq83ak66hwyoeui.corex.se
-  - name: 笔记一（镜像）
+  - name: 笔记一（镜像）n.i-mind.cl
     url: http://n.i-mind.cl/
-  - name: 必应一（镜像）
+  - name: 必应一（镜像）bingo.0x.no
     url: https://bingo.0x.no/
-  - name: 导航一（镜像）
+  - name: 导航一（镜像）nav.iiiii.info
     url: https://nav.iiiii.info/
-  - name: 导航一（镜像）
+  - name: 导航一（镜像）nav.k.vu
     url: https://nav.k.vu/
-  - name: GIT一（镜像）
+  - name: GIT一（镜像）git.hs.vc
     url: https://git.hs.vc/
-  - name: StaticJs一（镜像）
+  - name: StaticJs一（镜像）track.click-it.ca
     url: https://track.click-it.ca/
-  - name: 搜索一（镜像）
+  - name: 搜索一（镜像）searx.ix.tc
     url: https://searx.ix.tc/
-  - name: 协作笔记一（镜像）
+  - name: 协作笔记一（镜像）txt.qc.to
     url: https://txt.qc.to/
-  - name: 协作笔记一
+  - name: 协作笔记一txt.5i.gs
     url: https://txt.5i.gs/
-  - name: 协作笔记一（镜像）
+  - name: 协作笔记一（镜像）txt.qc.to
     url: https://txt.qc.to/
-  - name: 小程序一
+  - name: 小程序一mini2.396pay.cn
     url: http://mini2.396pay.cn/
-  - name: 画板一
+  - name: 画板一dra.5i.gs
     url: https://dra.5i.gs/
   
 
