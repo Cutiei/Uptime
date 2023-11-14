@@ -51,8 +51,6 @@ sites:
     url: https://s.5i.gs/
   - name: 博客二iviaja.com
     url: https://iviaja.com/
-  - name: 在线监测一uptime.5i.gs
-    url: https://uptime.5i.gs/
   - name: RSS抓取一rss.5i.gs
     url: https://rss.5i.gs/
   - name: 导航一nav.5i.gs
