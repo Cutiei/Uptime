@@ -3,7 +3,7 @@ owner: Cutiei # Your GitHub organization or username, where this repository live
 repo: Uptime # The name of this repository
 
 sites:
-  - name: 谷歌Google
+  - name: 谷歌Google（本监测的稳定性）
     url: https://www.google.com
   - name: 邮件一104.128.189.11
     url: http://104.128.189.11/
