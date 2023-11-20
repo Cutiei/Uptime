@@ -5,8 +5,8 @@ repo: Uptime # The name of this repository
 sites:
   - name: 谷歌Google（本监测的稳定性）
     url: https://www.google.com
-  - name: 邮件一104.128.189.11
-    url: http://104.128.189.11/
+  - name: Fire一104.128.189.11
+    url: http://104.128.189.11:42176/
   - name: 网站一89.117.94.99
     url: http://89.117.94.99/
   - name: 性能一173.249.203.183
@@ -15,7 +15,7 @@ sites:
     url: http://88.99.163.99:51968/
   - name: 对象储存一88.99.163.99:51969
     url: http://88.99.163.99:51969/
-  - name: 邮箱二sslms.h-e.top
+  - name: 邮箱一sslms.h-e.top
     url: https://sslms.h-e.top/
   - name: 对象储存二173.249.203.183:59200
     url: http://173.249.203.183:59200/
