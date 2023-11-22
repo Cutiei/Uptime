@@ -97,7 +97,7 @@ sites:
     url: https://mini2.396pay.cn/
   - name: 画板一dra.5i.gs
     url: https://dra.5i.gs/
-  - name: 工具一tool.5i.gss
+  - name: 工具一tool.5i.gs
     url: https://tool.5i.gs/
   
 status-website:
