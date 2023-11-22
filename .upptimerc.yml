@@ -85,8 +85,8 @@ sites:
     url: https://nav.k.vu/
   - name: GIT一（镜像）git.hs.vc
     url: https://git.hs.vc/
-  - name: StaticJs一（镜像）track.click-it.ca
-    url: https://track.click-it.ca/
+  - name: StaticJs一（镜像）trac.beclicked.com
+    url: https://trac.beclicked.com/
   - name: 搜索一（镜像）searx.ix.tc
     url: https://searx.ix.tc/
   - name: 协作笔记一txt.5i.gs
