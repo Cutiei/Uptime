@@ -99,6 +99,9 @@ sites:
     url: https://dra.5i.gs/
   - name: 工具一tool.5i.gs
     url: https://tool.5i.gs/
+  - name: 剪贴板一cut.5i.gs
+    url: https://cut.5i.gs/
+    
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
