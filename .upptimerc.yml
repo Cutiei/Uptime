@@ -103,6 +103,9 @@ sites:
     url: https://cut.5i.gs/
   - name: 剪贴板一（镜像）cut.3uu.me
     url: https://cut.3uu.me/
+  - name: 专用一（镜像）cadence.jroxg.org
+    url: https://cadence.jroxg.org/
+
     
   
 status-website:
