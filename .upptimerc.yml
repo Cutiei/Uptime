@@ -123,6 +123,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  scripts:
+    - src: https://trac.5i.gs/host.all-other.5i.gs.js
+      async: true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
