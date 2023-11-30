@@ -105,6 +105,8 @@ sites:
     url: https://cut.3uu.me/
   - name: 专用一（镜像）cadence.jroxg.org
     url: https://cadence.jroxg.org/
+  - name: 静态CDN（镜像）106.15.126.131:8443
+    url: https://106.15.126.131:8443/
 
     
   
