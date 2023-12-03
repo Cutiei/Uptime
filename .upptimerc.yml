@@ -111,6 +111,8 @@ sites:
     url: https://cadence.jroxg.org/
   - name: 静态CDN（镜像）106.15.126.131:8443
     url: https://106.15.126.131:8443/
+  - name: 小雅一res-ya.5i.gs
+    url: https://res-ya.5i.gs/
 
     
   
