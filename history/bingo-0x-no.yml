@@ -1,7 +1,7 @@
 url: https://bingo.0x.no/
-status: up
-code: 200
-responseTime: 952
-lastUpdated: 2023-12-03T23:25:13.262Z
+status: down
+code: 504
+responseTime: 15879
+lastUpdated: 2023-12-04T06:05:21.576Z
 startTime: 2023-11-12T09:04:07.537Z
 generator: Upptime <https://github.com/upptime/upptime>
