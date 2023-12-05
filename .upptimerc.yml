@@ -113,6 +113,8 @@ sites:
     url: https://106.15.126.131:8443/
   - name: 小雅一res-ya.5i.gs
     url: https://res-ya.5i.gs/
+  - name: 监测一change.5i.gs
+    url: https://change.5i.gs/
 
     
   
