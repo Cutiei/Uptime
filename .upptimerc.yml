@@ -93,10 +93,10 @@ sites:
     url: https://trac.beclicked.com/
   - name: 搜索一（镜像）searx.ix.tc
     url: https://searx.ix.tc/
-  - name: 协作笔记一cotxt.5i.gs
-    url: https://cotxt.5i.gs/
-  - name: 协作笔记一（镜像）txt.qc.to
-    url: https://txt.qc.to/
+ # - name: 协作笔记一cotxt.5i.gs
+ #   url: https://cotxt.5i.gs/
+ # - name: 协作笔记一（镜像）txt.qc.to
+ #   url: https://txt.qc.to/
   - name: 小程序一mini2.396pay.cn
     url: https://mini2.396pay.cn/
   - name: 画板一dra.5i.gs
