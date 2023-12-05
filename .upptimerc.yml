@@ -37,8 +37,8 @@ sites:
     url: https://inewsi.cn/
   - name: 小游戏一Play.h-e.top
     url: https://play.h-e.top/
-  - name: 思维导图一Drawio.h-e.top
-    url: https://drawio.h-e.top/
+ # - name: 思维导图一Drawio.h-e.top
+ #   url: https://drawio.h-e.top/
   - name: 公益接口一Api.h-e.top
     url: https://api.h-e.top/
   - name: 我的世界服务器一Mc.2b2t.cyou
@@ -49,8 +49,8 @@ sites:
     url: https://s.5i.gs/
   - name: 博客二iviaja.com
     url: https://iviaja.com/
-  - name: RSS抓取一rss.5i.gs
-    url: https://rss.5i.gs/
+ # - name: RSS抓取一rss.5i.gs
+ #   url: https://rss.5i.gs/
   - name: 导航一nav.5i.gs
     url: https://nav.5i.gs
   - name: GIT一git.5i.gs
@@ -59,8 +59,8 @@ sites:
     url: https://ifs.5i.gs/
   - name: 必应一bing.5i.gs
     url: https://bing.5i.gs/#dialog=%22%22
-  - name: 网盘二box.5i.gs
-    url: https://box.5i.gs/#user/login
+ # - name: 网盘二box.5i.gs
+ #   url: https://box.5i.gs/#user/login
   - name: 笔记一note.5i.gs
     url: https://note.5i.gs/#
   - name: 短链一yourls.5i.gs
