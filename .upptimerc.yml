@@ -68,7 +68,7 @@ sites:
   - name: 图床一img.5i.gs
     url: https://img.5i.gs/
   - name: 图床一（镜像）img.somlife.ru
-    url: https://img.somlife.ru/index.php
+    url: https://img.somlife.ru/
   - name: 网页部作业一（镜像）chinn.org
     url: http://xn--vhq83ak66hwyoeui.chinn.org
   - name: 网页部作业一（镜像）biring.id	
