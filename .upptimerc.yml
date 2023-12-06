@@ -115,6 +115,8 @@ sites:
     url: https://res-ya.5i.gs/
   - name: 监测一change.5i.gs
     url: https://change.5i.gs/
+  - name: Pandora一cgpt.5i.gs
+    url: https://cgpt.5i.gs/shared.html
 
     
   
