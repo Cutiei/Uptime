@@ -119,6 +119,8 @@ sites:
     url: https://cgpt.5i.gs/shared.html
   - name: Pandora一（镜像）chat.htpc.cl
     url: https://chat.htpc.cl/shared.html
+  - name: 笔记二（镜像）106.15.126.131:8082
+    url: https://106.15.126.131:8082/
 
     
   
