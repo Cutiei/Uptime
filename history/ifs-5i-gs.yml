@@ -1,7 +1,7 @@
 url: https://ifs.5i.gs/
-status: up
-code: 200
-responseTime: 372
-lastUpdated: 2023-12-18T23:17:07.957Z
+status: down
+code: 502
+responseTime: 2440
+lastUpdated: 2023-12-19T22:33:35.374Z
 startTime: 2023-12-03T12:56:49.855Z
 generator: Upptime <https://github.com/upptime/upptime>
