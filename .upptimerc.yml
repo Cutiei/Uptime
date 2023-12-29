@@ -41,8 +41,8 @@ sites:
  #   url: https://drawio.h-e.top/
   - name: 公益接口一Api.h-e.top
     url: https://api.h-e.top/
-  - name: 我的世界服务器一Mc.2b2t.cyou
-    url: https://mc.2b2t.cyou/
+ # - name: 我的世界服务器一Mc.2b2t.cyou
+ #   url: https://mc.2b2t.cyou/
   - name: 统计一mat.5i.gs
     url: https://mat.5i.gs/
   - name: 联邦宇宙一s.5i.gs
