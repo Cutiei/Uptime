@@ -63,6 +63,8 @@ sites:
  #   url: https://box.5i.gs/#user/login
   - name: 笔记一note.5i.gs
     url: https://note.5i.gs/#
+  - name: 收藏一wabag.5i.gs
+    url: https://wabag.5i.gs/login
   - name: 短链一yourls.5i.gs
     url: https://yourls.5i.gs/
   - name: 图床一img.5i.gs
