@@ -1,7 +1,7 @@
 url: http://89.117.94.99/
-status: up
-code: 200
-responseTime: 1285
-lastUpdated: 2024-01-09T23:16:29.786Z
+status: down
+code: 500
+responseTime: 120
+lastUpdated: 2024-01-10T22:29:42.410Z
 startTime: 2023-11-12T08:17:25.158Z
 generator: Upptime <https://github.com/upptime/upptime>
