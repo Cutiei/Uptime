@@ -1,7 +1,7 @@
 url: http://n.i-mind.cl/
-status: up
-code: 200
-responseTime: 630
-lastUpdated: 2024-01-15T23:17:11.902Z
+status: down
+code: 503
+responseTime: 3393
+lastUpdated: 2024-01-16T22:32:22.955Z
 startTime: 2023-11-12T09:04:06.439Z
 generator: Upptime <https://github.com/upptime/upptime>
