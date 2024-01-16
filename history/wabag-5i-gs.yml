@@ -1,7 +1,7 @@
 url: https://wabag.5i.gs/login
-status: up
-code: 200
-responseTime: 781
-lastUpdated: 2024-01-15T23:17:05.082Z
+status: down
+code: 503
+responseTime: 3374
+lastUpdated: 2024-01-16T22:31:43.427Z
 startTime: 2024-01-02T13:48:27.968Z
 generator: Upptime <https://github.com/upptime/upptime>
