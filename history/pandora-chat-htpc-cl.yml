@@ -1,7 +1,7 @@
 url: https://chat.htpc.cl/shared.html
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2024-01-17T23:18:53.579Z
+status: down
+code: 502
+responseTime: 470
+lastUpdated: 2024-01-18T22:31:19.596Z
 startTime: 2023-12-06T12:08:22.579Z
 generator: Upptime <https://github.com/upptime/upptime>
